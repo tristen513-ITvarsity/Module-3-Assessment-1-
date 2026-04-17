@@ -1,0 +1,12 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color: white;	    
+ }
+
+#right-colomn{
+   width: 60px;
+   float: left;
+   background-color:aqua;     
+}
